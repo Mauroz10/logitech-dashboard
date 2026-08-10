@@ -9,6 +9,11 @@ Dashboard interactivo para monitorear operaciones logísticas y financieras en t
 
 ---
 
+🚀 **[🌐 Clic aquí para interactuar con el Dashboard en Vivo en Render](https://logitech-dashboard.onrender.com/)**
+
+*(Nota: Al usar el plan gratuito de Render, la aplicación puede tardar cerca de 1 minuto en cargar en su primera visita mientras se activa el servidor de forma automática).*
+
+
 ## 📸 Vista Previa
 
 ![Dashboard Preview](screenshot.png)
@@ -132,8 +137,6 @@ python data/generar_datos.py
 python dashboard/app.py
 Abre tu navegador en http://127.0.0.1:8050.
 
-🌐 Demo en Vivo
-🔗 Ver Dashboard en Render [ ](https://logitech-dashboard.onrender.com/)](https://logitech-dashboard.onrender.com/)
 
 💡 Habilidades Demostradas
 ✅ Limpieza de datos: manejo de valores nulos, formatos inconsistentes, normalización.
