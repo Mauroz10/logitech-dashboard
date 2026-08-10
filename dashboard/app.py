@@ -1,15 +1,15 @@
 import dash
 from dash import html, dcc
 import dash_bootstrap_components as dbc
-from data_loader import cargar_datos
-from components import (
+from dashboard.data_loader import cargar_datos
+from dashboard.components import (
     crear_tarjeta_kpi, 
     crear_mapa, 
     crear_grafico_cascada, 
     crear_grafico_barras, 
     crear_tabla_pedidos
 )
-from callbacks import registrar_callbacks
+from dashboard.callbacks import registrar_callbacks
 
 # Cargar datos y KPIs iniciales
 df, (kpi_entregas, kpi_retraso, kpi_margen, kpi_penal) = cargar_datos()
