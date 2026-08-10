@@ -133,7 +133,7 @@ python dashboard/app.py
 Abre tu navegador en http://127.0.0.1:8050.
 
 🌐 Demo en Vivo
-🔗 Ver Dashboard en Render (actualizar después del despliegue)
+🔗 Ver Dashboard en Render [ ](https://logitech-dashboard.onrender.com/)](https://logitech-dashboard.onrender.com/)
 
 💡 Habilidades Demostradas
 ✅ Limpieza de datos: manejo de valores nulos, formatos inconsistentes, normalización.
